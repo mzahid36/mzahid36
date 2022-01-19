@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Zahidul Islam
+- 👀 I’m interested in learning new tech,Sports and love to travel
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Django projects
+- 📫 How to reach me just mail me to zahidul15-12522@diu.edu.bd and say 'Hi'
